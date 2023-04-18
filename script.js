@@ -8,9 +8,10 @@ while(i < str.length){
   else{
     if(i-j <= 1){
       console.log(str[j]);
-		alert(str[j]);
+		
       break;
     }
     j=i;
     i++;
   }
+
