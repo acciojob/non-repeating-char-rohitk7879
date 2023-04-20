@@ -14,4 +14,5 @@ while(i < str.length){
     j=i;
     i++;
   }
+}
 
